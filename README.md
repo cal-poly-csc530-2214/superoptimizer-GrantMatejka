@@ -1,3 +1,5 @@
+Was confused on setup for this assignment so initial repo can be found here https://github.com/GrantMatejka/Aha
+
 ### Forked for Exploration
 
 Looking into program synthesis and forked this repo to make a few 
