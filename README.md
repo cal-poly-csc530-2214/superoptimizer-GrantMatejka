@@ -1,5 +1,10 @@
 Was confused on setup for this assignment so initial repo can be found here https://github.com/GrantMatejka/Aha
 
+## Time
+
+Spent reading first paper and glancing over second, then getting aha to compile and run.
+Than proceeded to try some simple preprocessor optimization while messing around with program
+
 ### Forked for Exploration
 
 Looking into program synthesis and forked this repo to make a few 
@@ -7,7 +12,6 @@ code changes and just play around.
 
 Made some simple optimizations, but major wins include just getting the 
 code running and analyzing the structure of the optimizer.
-
 
 ## To Use
 
